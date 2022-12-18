@@ -20,6 +20,7 @@ with pkgs; [
   rustfmt
   terraform
   virtualenv
+  teams
 
   # language servers
   gopls
