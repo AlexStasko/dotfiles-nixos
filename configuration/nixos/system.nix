@@ -149,4 +149,7 @@
       extraPackages = with pkgs; [ zfs ];
     };
   };
+
+  programs._1password-gui.enable = true;
+  programs.teams.enable = true;
 }
