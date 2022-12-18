@@ -1,0 +1,6 @@
+result
+.gitsecret/keys/random_seed
+!*.secret
+users/astasko/config-aws
+users/astasko/config-pip
+users/astasko/kubeconfig
