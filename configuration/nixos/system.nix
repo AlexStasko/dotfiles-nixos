@@ -79,7 +79,7 @@
   services.openssh.permitRootLogin = "no";
 
   services.picom.enable = true;
-  services.globalprotect-openconnect.enable = true;
+  services.globalprotect-vpn.enable = true;
 
   services.xserver = {
     enable = true;
